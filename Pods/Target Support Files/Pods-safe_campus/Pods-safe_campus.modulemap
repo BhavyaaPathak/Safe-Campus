@@ -1,0 +1,6 @@
+framework module Pods_safe_campus {
+  umbrella header "Pods-safe_campus-umbrella.h"
+
+  export *
+  module * { export * }
+}
